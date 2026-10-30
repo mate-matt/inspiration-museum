@@ -1,0 +1,202 @@
+{
+  "categories": [
+    { "id": "talks", "title": "长访谈 / 频道" },
+    { "id": "journals", "title": "权威站点 / 期刊" },
+    { "id": "systems", "title": "计算艺术 / 创意系统" },
+    { "id": "zh", "title": "中文耐读" }
+  ],
+  "sources": [
+    {
+      "id": "creative-figures",
+      "category": "长访谈 / 频道",
+      "title": "Creative Figures",
+      "url": "https://creativefigures.fm/conversations/",
+      "note": "设计师/插画/独立制作人长谈",
+      "tags": ["播客", "访谈"]
+    },
+    {
+      "id": "beyond-this-point",
+      "category": "长访谈 / 频道",
+      "title": "Beyond This Point",
+      "url": "https://beyondthispoint.design/",
+      "note": "Karel Martens 等老派设计访谈",
+      "tags": ["访谈", "设计"]
+    },
+    {
+      "id": "the-creative-process",
+      "category": "长访谈 / 频道",
+      "title": "The Creative Process",
+      "url": "https://www.creativeprocess.info/",
+      "note": "跨艺术与 STEM 长访谈",
+      "tags": ["访谈"]
+    },
+    {
+      "id": "design-matters",
+      "category": "长访谈 / 频道",
+      "title": "Design Matters (Debbie Millman)",
+      "url": "https://www.designmattersmedia.com/",
+      "note": "设计界深度访谈",
+      "tags": ["播客", "设计"]
+    },
+    {
+      "id": "abstract-art-of-design",
+      "category": "长访谈 / 频道",
+      "title": "Abstract: The Art of Design",
+      "url": "https://www.netflix.com/title/80057883",
+      "note": "Netflix 工艺纪录片",
+      "tags": ["纪录片"]
+    },
+    {
+      "id": "nerdwriter1",
+      "category": "长访谈 / 频道",
+      "title": "Nerdwriter1",
+      "url": "https://www.youtube.com/@Nerdwriter1",
+      "note": "视觉文化/电影拆解",
+      "tags": ["YouTube", "影像"]
+    },
+    {
+      "id": "every-frame-a-painting",
+      "category": "长访谈 / 频道",
+      "title": "Every Frame a Painting",
+      "url": "https://www.youtube.com/@everyframeapainting",
+      "note": "电影剪辑构图",
+      "tags": ["YouTube", "电影"]
+    },
+    {
+      "id": "the-art-assignment",
+      "category": "长访谈 / 频道",
+      "title": "The Art Assignment",
+      "url": "https://www.youtube.com/@theartassignment",
+      "note": "PBS 当代艺术",
+      "tags": ["YouTube", "当代艺术"]
+    },
+    {
+      "id": "aiga-eye-on-design",
+      "category": "权威站点 / 期刊",
+      "title": "AIGA Eye on Design",
+      "url": "https://eyeondesign.aiga.org/",
+      "note": "美国平面设计协会的设计评论与行业观察",
+      "tags": ["期刊", "设计"]
+    },
+    {
+      "id": "its-nice-that",
+      "category": "权威站点 / 期刊",
+      "title": "It's Nice That (Features)",
+      "url": "https://www.itsnicethat.com/",
+      "note": "当代创意圈的作品与作者特写",
+      "tags": ["杂志"]
+    },
+    {
+      "id": "the-marginalian",
+      "category": "权威站点 / 期刊",
+      "title": "The Marginalian",
+      "url": "https://www.themarginalian.org/",
+      "note": "文学、科学与艺术交界处的长文",
+      "tags": ["长文"]
+    },
+    {
+      "id": "aeon",
+      "category": "权威站点 / 期刊",
+      "title": "Aeon",
+      "url": "https://aeon.co/",
+      "note": "哲学、科学与文化的深度随笔",
+      "tags": ["杂志", "长文"]
+    },
+    {
+      "id": "psyche",
+      "category": "权威站点 / 期刊",
+      "title": "Psyche",
+      "url": "https://psyche.co/",
+      "note": "心理与如何生活，Aeon 的姊妹刊",
+      "tags": ["杂志", "心理"]
+    },
+    {
+      "id": "moma-magazine",
+      "category": "权威站点 / 期刊",
+      "title": "MoMA Magazine",
+      "url": "https://www.moma.org/magazine/",
+      "note": "现代艺术博物馆的展览与艺术家文章",
+      "tags": ["博物馆", "杂志"]
+    },
+    {
+      "id": "tate-etc",
+      "category": "权威站点 / 期刊",
+      "title": "Tate Etc.",
+      "url": "https://www.tate.org.uk/tate-etc",
+      "note": "泰特美术馆期刊里的展览与艺术家",
+      "tags": ["期刊", "博物馆"]
+    },
+    {
+      "id": "mit-press-reader",
+      "category": "权威站点 / 期刊",
+      "title": "MIT Press Reader",
+      "url": "https://thereader.mitpress.mit.edu/",
+      "note": "麻省理工出版社摘出的思想长文",
+      "tags": ["长文", "出版"]
+    },
+    {
+      "id": "are-na",
+      "category": "权威站点 / 期刊",
+      "title": "Are.na",
+      "url": "https://www.are.na/",
+      "note": "公开频道上的视觉研究与收藏",
+      "tags": ["收藏", "研究"]
+    },
+    {
+      "id": "processing",
+      "category": "计算艺术 / 创意系统",
+      "title": "Processing Foundation",
+      "url": "https://processing.org/",
+      "note": "创意编程的语言、教学与基金会",
+      "tags": ["编程", "教学"]
+    },
+    {
+      "id": "openprocessing",
+      "category": "计算艺术 / 创意系统",
+      "title": "OpenProcessing",
+      "url": "https://openprocessing.org/",
+      "note": "在浏览器里看、改 Processing 草图",
+      "tags": ["社区", "编程"]
+    },
+    {
+      "id": "creative-applications",
+      "category": "计算艺术 / 创意系统",
+      "title": "CreativeApplications.Net",
+      "url": "https://www.creativeapplications.net/",
+      "note": "计算艺术与新媒介项目的报道",
+      "tags": ["报道", "编程"]
+    },
+    {
+      "id": "feral-file",
+      "category": "计算艺术 / 创意系统",
+      "title": "Feral File",
+      "url": "https://feralfile.com/",
+      "note": "可编程艺术与生成作品的线上展览",
+      "tags": ["展览", "生成艺术"]
+    },
+    {
+      "id": "codrops",
+      "category": "计算艺术 / 创意系统",
+      "title": "Codrops",
+      "url": "https://tympanus.net/codrops/",
+      "note": "交互实验与前端创意教程",
+      "tags": ["教程", "交互"]
+    },
+    {
+      "id": "artworld",
+      "category": "中文耐读",
+      "title": "艺术世界 ArtWorld",
+      "url": "https://www.artworld.cn/",
+      "note": "中文当代艺术杂志，展览与评论耐读",
+      "tags": ["杂志", "中文"]
+    },
+    {
+      "id": "bilibili-museum-lectures",
+      "category": "中文耐读",
+      "title": "博物馆纪录片与央美讲座",
+      "url": "https://search.bilibili.com/all?keyword=%E5%8D%9A%E7%89%A9%E9%A6%86%E7%BA%AA%E5%BD%95%E7%89%87",
+      "note": "B 站搜博物馆官方纪录片、央美讲座完整版；这是找法，不是固定栏目",
+      "tags": ["怎么找", "B站"]
+    }
+  ]
+}
