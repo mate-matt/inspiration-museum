@@ -6,9 +6,15 @@ A daily reading list of high-density creative and art inputs. Static HTML, CSS, 
 
 **Pages:** https://mate-matt.github.io/inspiration-museum/
 
-仓库保持私有。私有仓库的 Pages 站点在 GitHub 允许时仍可被公开访问。推送到 `main` 之后，页面通常要 1–10 分钟才会更新。
+仓库保持私有。私有仓库的 Pages 站点在 GitHub 允许时仍可被公开访问。推送到 `main` 之后，页面通常要 1–10 分钟才会更新。根目录有 `.nojekyll`，Pages 会按原样提供这些静态文件，不会跑 Jekyll。
 
-The repository stays private. A Pages site from a private repo is still publicly reachable when GitHub allows it. After a push to `main`, the live site often takes 1–10 minutes to update.
+The repository stays private. A Pages site from a private repo is still publicly reachable when GitHub allows it. After a push to `main`, the live site often takes 1–10 minutes to update. `.nojekyll` is in the root, so Pages serves these files as-is and does not run Jekyll.
+
+## 打开 Pages / Enable Pages
+
+发布内容在 `main` 的根目录（`index.html`）。用有仓库管理权限的账号打开 Settings → Pages → Build and deployment，Source 选 **Deploy from a branch**，Branch 选 **main** 和 **/(root)**，保存。不要把仓库改成 Public。
+
+The site files are at the root of `main`. With an account that can administer the repo: Settings → Pages → Build and deployment → Source **Deploy from a branch** → Branch **main** / **/(root)** → Save. Leave the repository private.
 
 ## 新增一条卡片 / Add a source
 
