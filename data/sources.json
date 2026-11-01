@@ -3,7 +3,10 @@
     { "id": "talks", "title": "长访谈 / 频道" },
     { "id": "journals", "title": "权威站点 / 期刊" },
     { "id": "systems", "title": "计算艺术 / 创意系统" },
-    { "id": "zh", "title": "中文耐读" }
+    { "id": "zh", "title": "中文耐读" },
+    { "id": "floral", "title": "花艺与空间" },
+    { "id": "layout", "title": "版式与图像" },
+    { "id": "visual", "title": "视觉策展" }
   ],
   "sources": [
     {
@@ -197,6 +200,118 @@
       "url": "https://search.bilibili.com/all?keyword=%E5%8D%9A%E7%89%A9%E9%A6%86%E7%BA%AA%E5%BD%95%E7%89%87",
       "note": "B 站搜博物馆官方纪录片、央美讲座完整版；这是找法，不是固定栏目",
       "tags": ["怎么找", "B站"]
+    },
+    {
+      "id": "garland-magazine",
+      "category": "花艺与空间",
+      "title": "Garland Magazine",
+      "url": "https://garlandmag.com/article/",
+      "note": "手工艺与物质文化长文，含插花/いけばな作为文化实践的深度随笔",
+      "tags": ["花艺", "长文"]
+    },
+    {
+      "id": "cultivated-by-christin",
+      "category": "花艺与空间",
+      "title": "Cultivated by Christin",
+      "url": "https://cultivatedbychristin.substack.com/",
+      "note": "花艺美学与花文化随笔：风格、季节与产业伦理",
+      "tags": ["花艺", "随笔"]
+    },
+    {
+      "id": "slow-flowers-journal",
+      "category": "花艺与空间",
+      "title": "Slow Flowers Journal",
+      "url": "https://slowflowersjournal.com/",
+      "note": "慢花运动：设计创新、书评与季节花材长文",
+      "tags": ["花艺", "设计"]
+    },
+    {
+      "id": "eye-magazine",
+      "category": "版式与图像",
+      "title": "Eye Magazine",
+      "url": "https://www.eyemagazine.com/",
+      "note": "国际平面设计评论季刊：排版、字体与编辑设计批评",
+      "tags": ["版式", "字体", "批评"]
+    },
+    {
+      "id": "fonts-in-use",
+      "category": "版式与图像",
+      "title": "Fonts In Use",
+      "url": "https://fontsinuse.com/",
+      "note": "真实项目中的字体与版式策展档案",
+      "tags": ["字体", "版式", "档案"]
+    },
+    {
+      "id": "typographica",
+      "category": "版式与图像",
+      "title": "Typographica",
+      "url": "https://typographica.org/",
+      "note": "字体评论与书评，校准版式品味而非追新清单",
+      "tags": ["字体", "评论"]
+    },
+    {
+      "id": "pageperfect-journal",
+      "category": "版式与图像",
+      "title": "PagePerfect Journal — Typography & Layout",
+      "url": "https://pageperfect.studio/journal/",
+      "note": "用证据拆解排版传言：行长、页边、图文顺序等",
+      "tags": ["版式", "长文"]
+    },
+    {
+      "id": "readings-design",
+      "category": "版式与图像",
+      "title": "Graphic Design Reading",
+      "url": "https://readings.design/",
+      "note": "Jarrett Fuller 策展的平面设计批评与理论阅读库",
+      "tags": ["理论", "阅读"]
+    },
+    {
+      "id": "design-observer",
+      "category": "版式与图像",
+      "title": "Design Observer",
+      "url": "https://designobserver.com/",
+      "note": "设计批评长文传统站，谈如何看见版式选择",
+      "tags": ["批评", "长文"]
+    },
+    {
+      "id": "bpando",
+      "category": "版式与图像",
+      "title": "BP&O — Branding, Packaging and Opinion",
+      "url": "https://bpando.org/",
+      "note": "品牌与包装平面的慢写档案，重研究与造型语言",
+      "tags": ["品牌", "包装"]
+    },
+    {
+      "id": "slanted-magazine",
+      "category": "版式与图像",
+      "title": "Slanted",
+      "url": "https://www.slanted.de/",
+      "note": "欧洲字体与视觉文化出版平台，主题刊偏实验编辑设计",
+      "tags": ["字体", "编辑设计"]
+    },
+    {
+      "id": "public-domain-review",
+      "category": "视觉策展",
+      "title": "The Public Domain Review",
+      "url": "https://publicdomainreview.org/",
+      "note": "公版视觉文化策展加长文：纹样、书封、印刷史",
+      "tags": ["策展", "档案"]
+    },
+    {
+      "id": "selected-screens",
+      "category": "视觉策展",
+      "title": "Selected Screens",
+      "url": "https://selectedscreens.com/",
+      "note": "编辑精选界面与品牌屏，有署名与编辑注，拒绝付费置顶",
+      "tags": ["界面", "策展"]
+    },
+    {
+      "id": "logo-archive",
+      "category": "视觉策展",
+      "title": "LogoArchive",
+      "url": "https://www.logo-archive.org/",
+      "note": "现代主义历史标志研究型图库，按形、国、年代检索",
+      "tags": ["标志", "形式"]
     }
   ]
 }
