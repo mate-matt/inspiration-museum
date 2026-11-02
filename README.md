@@ -34,7 +34,7 @@ Edit `data/sources.json`, append one object to `sources`, then commit and push t
 }
 ```
 
-`category` 用下面四个名字之一（或对应的 `id`）。写一个新名字会自动多出一个分区和筛选芯片。`tags` 可以省略。
+`category` 用下面分区名之一（或对应的 `id`）。写一个新名字会自动多出一个分区和筛选芯片。`tags` 可以省略。
 
 | 分区 | id |
 | --- | --- |
@@ -42,6 +42,7 @@ Edit `data/sources.json`, append one object to `sources`, then commit and push t
 | 权威站点 / 期刊 | `journals` |
 | 计算艺术 / 创意系统 | `systems` |
 | 中文耐读 | `zh` |
+| 插画家 / 风格样本 | `illustrators` |
 
 Use one of those category titles (or its id). A new name becomes its own section and filter chip. `tags` is optional.
 

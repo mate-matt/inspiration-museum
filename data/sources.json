@@ -6,7 +6,8 @@
     { "id": "zh", "title": "中文耐读" },
     { "id": "floral", "title": "花艺与空间" },
     { "id": "layout", "title": "版式与图像" },
-    { "id": "visual", "title": "视觉策展" }
+    { "id": "visual", "title": "视觉策展" },
+    { "id": "illustrators", "title": "插画家 / 风格样本" }
   ],
   "sources": [
     {
@@ -312,6 +313,134 @@
       "url": "https://www.logo-archive.org/",
       "note": "现代主义历史标志研究型图库，按形、国、年代检索",
       "tags": ["标志", "形式"]
+    },
+    {
+      "id": "mateusz-urbanowicz",
+      "category": "插画家 / 风格样本",
+      "title": "Mateusz Urbanowicz",
+      "url": "https://mateuszurbanowicz.com/",
+      "note": "怀旧城市店面与街景水彩，安静的日常纪实感",
+      "tags": ["水彩", "城市", "怀旧"]
+    },
+    {
+      "id": "james-r-eads",
+      "category": "插画家 / 风格样本",
+      "title": "James R. Eads",
+      "url": "https://jamesreads.com/en-jp",
+      "note": "漩涡幻梦与宇宙感插画，梦境超现实一路",
+      "tags": ["超现实", "梦境"]
+    },
+    {
+      "id": "tim-saternow",
+      "category": "插画家 / 风格样本",
+      "title": "Tim Saternow",
+      "url": "http://www.timsaternow.com/",
+      "note": "NYC 空街与店面水彩，更冷更纪实的都市感",
+      "tags": ["水彩", "城市"]
+    },
+    {
+      "id": "thibaud-herem",
+      "category": "插画家 / 风格样本",
+      "title": "Thibaud Herem",
+      "url": "https://thibaudherem.com/",
+      "note": "极密钢笔建筑立面，像可翻阅的城市测绘档案",
+      "tags": ["线稿", "建筑"]
+    },
+    {
+      "id": "kilian-eng",
+      "category": "插画家 / 风格样本",
+      "title": "Kilian Eng",
+      "url": "https://www.instagram.com/kilianeng/",
+      "note": "复古未来巨构与透视梦境城市（Behance 常 403，用 IG）",
+      "tags": ["科幻", "巨构"]
+    },
+    {
+      "id": "james-jean",
+      "category": "插画家 / 风格样本",
+      "title": "James Jean",
+      "url": "https://www.jamesjean.com/",
+      "note": "华丽缠绕的神话纹样与东方气质幻境",
+      "tags": ["神话", "纹样"]
+    },
+    {
+      "id": "malika-favre",
+      "category": "插画家 / 风格样本",
+      "title": "Malika Favre",
+      "url": "https://www.malikafavre.com/",
+      "note": "高对比色块与负空间，波普极简人物",
+      "tags": ["极简", "图形"]
+    },
+    {
+      "id": "hedof",
+      "category": "插画家 / 风格样本",
+      "title": "Hedof (Rick Berkelmans)",
+      "url": "https://www.hedof.com/",
+      "note": "糖果色歪扭几何场景，玩具感构成",
+      "tags": ["几何", "童趣"]
+    },
+    {
+      "id": "simon-stalenhag",
+      "category": "插画家 / 风格样本",
+      "title": "Simon Stålenhag",
+      "url": "https://www.simonstalenhag.se/",
+      "note": "北欧郊野巨型机械，厨房水槽式怀旧科幻",
+      "tags": ["科幻", "郊野"]
+    },
+    {
+      "id": "bradly-wohlgemuth",
+      "category": "插画家 / 风格样本",
+      "title": "Bradly J. Wohlgemuth",
+      "url": "https://www.renegadepencil.com/",
+      "note": "阴暗赛博街景与怪诞机械生物",
+      "tags": ["赛博", "暗色"]
+    },
+    {
+      "id": "nick-morley",
+      "category": "插画家 / 风格样本",
+      "title": "Nick Morley (Linocutboy)",
+      "url": "https://www.linocutboy.com/",
+      "note": "幽默叙事胶版，刀痕与纹理很强",
+      "tags": ["版画", "叙事"]
+    },
+    {
+      "id": "rosanna-morris",
+      "category": "插画家 / 风格样本",
+      "title": "Rosanna Morris",
+      "url": "https://rosannamorris.com/welcome",
+      "note": "植物主题手工木刻/胶版，泥土色与手作纸",
+      "tags": ["版画", "植物"]
+    },
+    {
+      "id": "yuko-shimizu",
+      "category": "插画家 / 风格样本",
+      "title": "Yuko Shimizu",
+      "url": "https://yukoart.com/",
+      "note": "日式墨线当代叙事，锐利而文学",
+      "tags": ["墨线", "叙事"]
+    },
+    {
+      "id": "feimo-zhu",
+      "category": "插画家 / 风格样本",
+      "title": "Feimo Zhu",
+      "url": "https://feimoart.com/",
+      "note": "中式细线+浓烈色彩纹理，民俗与奇幻交融",
+      "tags": ["中式", "奇幻"]
+    },
+    {
+      "id": "miraruido",
+      "category": "插画家 / 风格样本",
+      "title": "MiraRuido (Joseba Elorza)",
+      "url": "https://www.miraruido.com/",
+      "note": "复古摄影超现实拼贴，电影感荒诞",
+      "tags": ["拼贴", "摄影"]
+    },
+    {
+      "id": "ori-toor",
+      "category": "插画家 / 风格样本",
+      "title": "Ori Toor",
+      "url": "https://oritoor.com/",
+      "note": "即兴抽象涂鸦风景，脑内杂讯式色彩",
+      "tags": ["抽象", "涂鸦"]
     }
   ]
 }
